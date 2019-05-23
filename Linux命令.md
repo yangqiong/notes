@@ -6,3 +6,6 @@
 ### tr 替换字符
 
 ### cut 分割字符
+
+### 正则替换
+`perl -pe "s/yang/qiong/"`
