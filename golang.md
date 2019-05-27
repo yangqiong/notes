@@ -1,3 +1,7 @@
+### 值和引用
+* 数组的赋值是复制
+* 引用类型：数组切片, map, channel, interface
+
 ### range
 ```
 for _, v := range array {
